@@ -41,9 +41,21 @@
 ---
 
 ## 📸 Screenshots
+### 🖥️ PROTO UI
 
-> _Include screenshots of your terminal output, GUI (if any), or example use cases._
-> 
+<img src="images/proto1.jpg" alt="PROTO UI" width="500"/>
+
+---
+
+### 🤖 GPT Voice Command in Action
+
+<img src="images/2.jpg" alt="GPT Response" width="500"/>
+
+---
+
+### 📜 PROTO Voice Command List
+
+<img src="images/3.jpg" alt="Command List" width="500"/>
 
 ---
 
